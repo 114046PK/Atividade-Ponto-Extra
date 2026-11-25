@@ -1,0 +1,12 @@
+body {
+  background-color: #f7f8fa;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+form {
+  max-width: 640px;
+}
